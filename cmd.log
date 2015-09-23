@@ -1,0 +1,35 @@
+git  --version
+$ git -version
+$  -version
+git  --version
+git config --global user.name "wwj"
+git config --global user.email "1056681263@qq.com"
+git config
+git config -l
+git config --global user.email "105668@qq.com"
+git config -l
+git config --global user.email "1056681263@qq.com"
+git config -l
+mkdir wwj
+l
+cd wwj
+pwd
+git init
+ls -a
+.git config --system -l
+git config --system -ll
+git config --system -l 
+git config --global -l 
+git config --global --unset user.email  
+git config --global -l 
+.git config --global user.email=1056681263@qq.com
+git config --global user.email=1056681263@qq.com
+git config --global -l 
+git config --global user.email "105668@qq.com"
+git config --global -l 
+echo 1 > readme.txt
+cat readme.txt
+git config -l
+doskey history
+doskey /history
+doskey /history >>cmd.log
